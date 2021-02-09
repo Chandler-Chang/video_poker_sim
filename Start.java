@@ -1,9 +1,3 @@
-/* CSE205: 11333/T, Th 4:30-5:45pm
- * Assignment: 6, Final
- * Author: Chandler Chang (1216655869)
- * Description: Start class for Assignment 6 (main method)
- */
-
 import java.util.Scanner;
 
 public class Start {
